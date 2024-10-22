@@ -29,11 +29,11 @@ Inputs: \
 600 epochs \
 Training time per epoch 0.166s
 
-![Simple Color Graph](Photos/SimpleColor.png)
+![Simple Color Graph](Photos/simpleColor.png)
 
-![Simple Loss Graph](Photos/SimpleLoss.png)
+![Simple Loss Graph](Photos/simpleLoss.png)
 
-![Simple Term Output](Photos/SimpleOutput.png)
+![Simple Term Output](Photos/simpleOutput.png)
 
 Longform Terminal Output:
 Epoch: 0/600, loss: 0, correct: 0
@@ -108,11 +108,11 @@ Inputs: \
 600 epochs \
 Training time per epoch 0.270s
 
-![Diag Color Graph](Photos/DiagColor.png)
+![Diag Color Graph](Photos/diagColor.png)
 
-![Diag Loss Graph](Photos/DiagLoss.png)
+![Diag Loss Graph](Photos/diagLoss.png)
 
-![Diag Term Output](Photos/DiagOutput.png)
+![Diag Term Output](Photos/diagOutput.png)
 
 Longform Terminal Output:
 Epoch: 0/600, loss: 0, correct: 0
@@ -186,11 +186,11 @@ Inputs: \
 900 epochs
 Training time per epoch 0.667s
 
-![Split Color Graph](Photos/SplitColor.png)
+![Split Color Graph](Photos/splitColor.png)
 
-![Split Loss Graph](Photos/SplitLoss.png)
+![Split Loss Graph](Photos/splitLoss.png)
 
-![Split Term Output](Photos/SplitOutput.png)
+![Split Term Output](Photos/splitOutput.png)
 
 Longform Terminal Output:
 Epoch: 0/900, loss: 0, correct: 0
